@@ -1,18 +1,3 @@
----
-title: "CodeBook"
-author: "Mike Crookenden"
-date: "February 7, 2017"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
 
 The project output data (text) file contains:
 
@@ -20,7 +5,7 @@ The project output data (text) file contains:
 
 180 data lines, one for each person-activity combination (30 subjects x 6 activities)
 
-each data line has SUbject (key), Activity (description) and mean value of 79 selected measurments for this Subject-Activity
+each data line has Subject (key), Activity (description) and mean value of 79 selected measurments for this Subject-Activity
 
 Header row describes the individual measurements. More details are shown below, reproduced from the assignment documentation:
 
