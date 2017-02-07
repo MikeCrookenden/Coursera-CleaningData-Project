@@ -1,9 +1,9 @@
 # Coursera-CleaningData-Project
-Code and documentation for the Project for the Coursera JHU 'Getting and Cleaning Data' course
+Code and documentation for the Project for the Coursera JHU 'Getting and Cleaning Data' course. As described in the assignment, all data files are assumed to be in the working directory.
 
 Script pulls in two sets of data - test and training data for measurements of accelerometer readings when people undertake different standardised activities,
 
-Adds key data for these files from separaet raw data files,
+Adds key data for these files from separate raw data files,
 
 then cleans the data slightly
 
