@@ -5,9 +5,11 @@ The project output data (text) file contains:
 
 180 data lines, one for each person-activity combination (30 subjects x 6 activities)
 
-each data line has Subject (key), Activity (description) and mean value of 79 selected measurments for this Subject-Activity
+Each data line has Subject (key), Activity (description) and the mean value for this Subject-Activity of each of 79 selected measurements.
 
-Header row describes the individual measurements. More details are shown below, reproduced from the assignment documentation:
+The header row describes the individual measurements. 
+
+More details are shown below, reproduced from the assignment documentation:
 
 Feature Selection 
 =================
